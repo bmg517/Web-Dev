@@ -1,0 +1,29 @@
+/* Element Selecter */
+/* h1{
+  color: red;
+  background-color: rgb(216, 226, 226);
+  ;
+
+}
+p{
+  color: blue;
+  text-align: center;
+} */
+
+
+/* Universal Selecter */
+ 
+/* *{
+  color: red;
+  background-color: rgb(234, 239, 239);
+} */
+
+/* #heading{
+  color: red;
+}
+#para{
+  color: yellow;
+} */
+#head{
+  color: red;
+}
